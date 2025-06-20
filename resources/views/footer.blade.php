@@ -1,6 +1,6 @@
 <!-- ========================= footer start ========================= -->
 <footer class="footer pt-160">
-    <div class="shape">
+    <!-- <div class="shape">
         <img src="/lite-version/assets/images/footer/shape-1.svg" alt="">
     </div>
     <div class="container">
@@ -55,7 +55,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="container">
         <div class="copyright">
             <p>Design and Developed By <a href="https://uideck.com/" rel="nofollow" target="_blank">UIdeck</a>
@@ -67,8 +67,35 @@
 
 
 <!-- ========================= scroll-top ========================= -->
-<a href="#" class="scroll-top btn-hover">
+{{-- <a href="#" class="scroll-top btn-hover">
     <i class="lni lni-chevron-up"></i>
+</a> --}}
+
+<!-- Floating CTA Button -->
+<style>
+    .floating-cta-btn {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 9999;
+        border-radius: 50px;
+        padding: 12px 20px;
+        font-size: 16px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        transition: background 0.3s, transform 0.2s;
+    }
+
+    .floating-cta-btn:hover {
+        background-color: #0d6efd;
+        /* Bootstrap primary */
+        transform: scale(1.05);
+        color: #fff;
+    }
+</style>
+<a href="https://wa.me/6285733465399" class="floating-cta-btn btn btn-success btn-lg shadow">
+    💬 Chat Now
 </a>
 
 <!-- ========================= JS here ========================= -->

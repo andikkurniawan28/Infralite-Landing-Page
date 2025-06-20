@@ -4,7 +4,7 @@
   filter: invert(1);
 }
 </style>
-<section id="testimonial" class="testimonial-section py-5 bg-light">
+<section id="testimonial" class="testimonial-section py-5">
   <div class="container">
     <div class="section-title text-center mb-4">
       <h2>What our customers say</h2>

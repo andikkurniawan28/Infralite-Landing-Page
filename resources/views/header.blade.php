@@ -5,8 +5,8 @@
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg">
                         <a class="navbar-brand" href="{{ route('welcome') }}">
-                            <h1><span>InfraLite</span></h1>
-                            {{-- <img src="/lite-version/assets/images/logo/logo.svg" alt="Logo" /> --}}
+                            {{-- <h1><span class="text-dark">Infra</span><span class="text-primary">Lite</span></span></h1> --}}
+                            <img src="/lite-version/assets/images/1-removebg-preview-crop.png" alt="Logo" />
                         </a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                             data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"

@@ -1,6 +1,7 @@
 @include('head')
 
 <body>
+
     @include('header')
     @include('hero')
     @include('feature')

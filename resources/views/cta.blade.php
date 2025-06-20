@@ -1,5 +1,5 @@
 <!-- Feature 4 - Get Started -->
-<section id="cta" class="feature-section-2">
+<section id="cta" class="feature-section-2 bg-light">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-10">

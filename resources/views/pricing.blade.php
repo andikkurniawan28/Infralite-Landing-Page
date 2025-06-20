@@ -1,5 +1,5 @@
 <!-- ========================= pricing-section start ========================= -->
-<section id="pricing" class="py-5 bg-light">
+<section id="pricing" class="py-5">
   <div class="container">
     <div class="section-title text-center mb-5">
       <h2 class="mb-3">Pricing Plans</h2>

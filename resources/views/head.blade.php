@@ -7,7 +7,7 @@
     <title>{{ ENV('APP_NAME') }}</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="shortcut icon" type="image/x-icon" href="/lite-version/assets/images/favicon.svg" />
+    <link rel="shortcut icon" type="image/x-icon" href="/lite-version/assets/images/1-removebg-preview.png" />
     <!-- Place favicon.ico in the root directory -->
 
     <!-- ========================= CSS here ========================= -->
