@@ -11,9 +11,10 @@
                         <li>❌ Manual database backups take forever?</li>
                         <li>❌ Still Googling for the right driver?</li>
                         <li>❌ Tired of bloated IT support tools?</li>
+                        <li>❌ Unable to track issue status or who’s responsible?</li>
                     </ul>
                     <p class="mb-4 fw-medium">
-                        Meet InfraLite — a zero-install, browser-based toolkit to automate your daily IT tasks in
+                        Meet INFRALite — a zero-install, browser-based toolkit to automate your daily IT tasks in
                         seconds.
                     </p>
                     <a href="#cta" class="btn btn-primary btn-lg me-3">Start Free Trial</a>
@@ -26,14 +27,14 @@
             <!-- Hero Image / Video -->
             <div class="col-xxl-6 col-xl-6 col-lg-6 offset-xxl-1 mt-4 mt-lg-0">
                 <div class="hero-image text-center text-lg-start">
-                    {{-- <img src="/lite-version/assets/images/pexels-divinetechygirl-1181316.jpg" class="img-fluid rounded shadow" alt="InfraLite App Screenshot"> --}}
+                    {{-- <img src="/lite-version/assets/images/pexels-divinetechygirl-1181316.jpg" class="img-fluid rounded shadow" alt="INFRALite App Screenshot"> --}}
                     <img src="/lite-version/assets/images/pexels-divinetechygirl-1181316.jpg"
-                        class="img-fluid w-100 rounded shadow" alt="InfraLite App Screenshot">
+                        class="img-fluid w-100 rounded shadow" alt="INFRALite App Screenshot">
 
                     <!-- Optionally use video instead of image -->
                     <!--
           <video autoplay muted loop playsinline class="img-fluid rounded shadow">
-              <source src="/lite-version/assets/videos/infralite-demo.mp4" type="video/mp4">
+              <source src="/lite-version/assets/videos/INFRALite-demo.mp4" type="video/mp4">
               Your browser does not support the video tag.
           </video>
           -->

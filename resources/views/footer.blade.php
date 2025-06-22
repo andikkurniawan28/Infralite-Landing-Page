@@ -1,5 +1,5 @@
 <!-- ========================= footer start ========================= -->
-<footer class="footer pt-160">
+<footer class="footer pt-160 bg-light">
     <!-- <div class="shape">
         <img src="/lite-version/assets/images/footer/shape-1.svg" alt="">
     </div>
@@ -58,7 +58,7 @@
     </div> -->
     <div class="container">
         <div class="copyright">
-            <p>Design and Developed By <a href="https://uideck.com/" rel="nofollow" target="_blank">UIdeck</a>
+            <p>Developed By <a href="https://wa.me/6285733465399" rel="nofollow" target="_blank">Andik Kurniawan</a>
             </p>
         </div>
     </div>

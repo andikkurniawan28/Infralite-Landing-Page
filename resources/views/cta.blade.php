@@ -1,5 +1,5 @@
 <!-- Feature 4 - Get Started -->
-<section id="cta" class="feature-section-2 bg-light">
+<section id="cta" class="feature-section-2">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-10">
@@ -7,8 +7,8 @@
                     <div class="section-title">
                         <h2 class="mb-20">Need a Demo or Have Questions?</h2>
                         <p class="mb-30">
-                            Whether you're an IT technician or a product owner, we're here to help you get started with InfraLite.
-                            Chat directly with us and see how <strong>InfraLite</strong> fits into your workflow.
+                            Whether you're an IT technician or a product owner, we're here to help you get started with INFRALite.
+                            Chat directly with us and see how <strong>INFRALite</strong> fits into your workflow.
                         </p>
                         <ul>
                             <li>💬 Free live walkthrough and onboarding</li>

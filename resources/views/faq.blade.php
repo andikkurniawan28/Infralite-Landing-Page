@@ -1,9 +1,9 @@
 <!-- ========================= FAQ Section Start ========================= -->
-<section id="faq" class="faq-section py-5 bg-light">
+<section id="faq" class="faq-section py-5">
   <div class="container">
     <div class="section-title text-center mb-5">
       <h2>Frequently Asked Questions</h2>
-      <p class="text-muted">Need clarity? Here are answers to some of the most common questions about InfraLite.</p>
+      <p class="text-muted">Need clarity? Here are answers to some of the most common questions about INFRALite.</p>
     </div>
 
     <div class="accordion" id="faqAccordion">
@@ -12,12 +12,12 @@
       <div class="accordion-item">
         <h2 class="accordion-header" id="faqHeadingOne">
           <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseOne" aria-expanded="true" aria-controls="faqCollapseOne">
-            Is InfraLite free to use?
+            Is INFRALite free to use?
           </button>
         </h2>
         <div id="faqCollapseOne" class="accordion-collapse collapse show" aria-labelledby="faqHeadingOne" data-bs-parent="#faqAccordion">
           <div class="accordion-body">
-            Yes, InfraLite Driver Resolver is completely free to use with no hidden costs or trial limitations.
+            Yes, INFRALite Driver Resolver is completely free to use with no hidden costs or trial limitations.
           </div>
         </div>
       </div>
@@ -31,7 +31,7 @@
         </h2>
         <div id="faqCollapseTwo" class="accordion-collapse collapse" aria-labelledby="faqHeadingTwo" data-bs-parent="#faqAccordion">
           <div class="accordion-body">
-            Yes. InfraLite is web-based, but can run entirely within a local network—no internet connection is required as long as the server is reachable.
+            Yes. INFRALite is web-based, but can run entirely within a local network—no internet connection is required as long as the server is reachable.
           </div>
         </div>
       </div>
@@ -45,7 +45,7 @@
         </h2>
         <div id="faqCollapseThree" class="accordion-collapse collapse" aria-labelledby="faqHeadingThree" data-bs-parent="#faqAccordion">
           <div class="accordion-body">
-            InfraLite-DBT is optimized for MySQL and MariaDB environments, ensuring fast and stable backup operations. Other database support is planned in future updates.
+            INFRALite-DBT is optimized for MySQL and MariaDB environments, ensuring fast and stable backup operations. Other database support is planned in future updates.
           </div>
         </div>
       </div>
@@ -54,12 +54,12 @@
       <div class="accordion-item">
         <h2 class="accordion-header" id="faqHeadingFour">
           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseFour" aria-expanded="false" aria-controls="faqCollapseFour">
-            Is InfraLite open source?
+            Is INFRALite open source?
           </button>
         </h2>
         <div id="faqCollapseFour" class="accordion-collapse collapse" aria-labelledby="faqHeadingFour" data-bs-parent="#faqAccordion">
           <div class="accordion-body">
-            Yes. InfraLite Driver Resolver is open source and freely available for public use and contribution.
+            Yes. INFRALite Driver Resolver is open source and freely available for public use and contribution.
           </div>
         </div>
       </div>
@@ -68,7 +68,7 @@
       <div class="accordion-item">
         <h2 class="accordion-header" id="faqHeadingFive">
           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseFive" aria-expanded="false" aria-controls="faqCollapseFive">
-            How do I install InfraLite?
+            How do I install INFRALite?
           </button>
         </h2>
         <div id="faqCollapseFive" class="accordion-collapse collapse" aria-labelledby="faqHeadingFive" data-bs-parent="#faqAccordion">
